@@ -2,16 +2,17 @@
 
 🎓 MCA Graduate
 
-Exploring Artificial Intelligence, Machine Learning & Computer Vision.
+Aspiring AI & Machine Learning Engineer passionate about building practical projects and continuously learning new technologies.
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🤖 Passionate about Artificial Intelligence and Machine Learning
-* 💻 Interested in solving real-world problems using Python
-* 🚀 Building practical AI & Machine Learning projects
-* 📚 Continuously improving my skills through hands-on learning
+* 🤖 Passionate about Artificial Intelligence, Machine Learning, and Computer Vision
+* 💻 Love solving real-world problems using Python
+* 🚀 Building AI and Machine Learning projects to improve my skills
+* 📚 Currently learning Deep Learning and Computer Vision
+* 🌱 Always eager to learn new technologies
 
 ---
 
@@ -41,6 +42,26 @@ Exploring Artificial Intelligence, Machine Learning & Computer Vision.
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 Customer Churn Prediction
+
+A machine learning project for analyzing customer data and predicting customer churn.
+
+### 👩‍💻 Face Recognition Attendance System
+
+A face recognition-based attendance system developed using Python and Computer Vision concepts.
+
+### 🔥 AI Fraud Detection
+
+An image classification project developed using Deep Learning techniques.
+
+### 🌐 Personal Portfolio
+
+A personal portfolio website showcasing my projects and learning journey.
+
+---
+
 ## 🌱 Currently Learning
 
 * Deep Learning (ANN & CNN)
@@ -49,26 +70,22 @@ Exploring Artificial Intelligence, Machine Learning & Computer Vision.
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🧠 Customer Churn Prediction
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshu0908\&show_icons=true\&theme=tokyonight)
 
-A machine learning project for analyzing customer data and predicting customer churn.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshu0908\&layout=compact\&theme=tokyonight)
 
----
-
-### 👩‍💻 Face Recognition Attendance System
-
-A face recognition-based attendance system developed using Python and Computer Vision concepts.
+![GitHub Streak](https://streak-stats.demolab.com?user=sakshu0908\&theme=tokyonight)
 
 ---
 
-### 🔥 AI Fraud Detection
+## 📫 Connect with Me
 
-An image classification project developed using Deep Learning techniques.
+* GitHub: https://github.com/sakshu0908
+* Portfolio: https://sakshi-portfolio-eight-henna.vercel.app/
 
 ---
 
-### 🌐 Personal Portfolio
+⭐ Thank you for visiting my profile!
 
-A personal portfolio website showcasing my projects, skills, and learning journey.
