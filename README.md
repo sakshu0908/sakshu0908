@@ -1,3 +1,5 @@
+![Banner](banner.png.png)
+
 # Hi 👋, I'm Sakshi Deshmukh
 
 🎓 MCA Graduate
